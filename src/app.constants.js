@@ -8,7 +8,8 @@ export const PORT_LISTENER = 10050
 // Webhook
 export const HEALTH_PATH = '/health'
 export const WEBHOOK_PATH = '/webhook'
+export const REQUESTHOOK_PATH = '/requesthook'
 
 // slack constants
-export const PROD_SLACK_CHANNEL = 'DM6LJCRM0' //'GKELPLCLV'
-export const SLACK_NOTIFICATION_TITLE = 'BoT request an answer'
+export const OK_RESPONSE = 200
+export const PROD_SLACK_CHANNEL = 'DPKP1R5E1' //'GKELPLCLV'
