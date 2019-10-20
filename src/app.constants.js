@@ -12,4 +12,4 @@ export const REQUESTHOOK_PATH = '/requesthook'
 
 // slack constants
 export const OK_RESPONSE = 200
-export const PROD_SLACK_CHANNEL = 'DPKP1R5E1' //'GKELPLCLV'
+export const PROD_SLACK_CHANNEL = 'CPKU9GTQD' //'GKELPLCLV'
